@@ -291,35 +291,35 @@ tbody tr:nth-child(odd) th {
 
 /*HUS on hover effect*/
 .masthead-title a {
-  color: #fff;
-  display: inline-block;
-  font-size: 1.8rem;
-  line-height: 1.8rem;
-  text-decoration: none;
-  overflow: hidden;
-  padding-right: 10px;
+    color: #ac4142;
+    display: inline-block;
+    font-size: 1.8rem;
+    line-height: 1.8rem;
+    text-decoration: none;
+    overflow: hidden;
+    padding-right: 10px;
 }
 .masthead-title a span {
-  position: relative;
-  display: inline-block;
-  -webkit-transition: -webkit-transform 0.3s;
-  -moz-transition: -moz-transform 0.3s;
-  transition: transform 0.3s;
+    position: relative;
+    display: inline-block;
+    -webkit-transition: -webkit-transform 0.3s;
+    -moz-transition: -moz-transform 0.3s;
+    transition: transform 0.3s;
 }
 .masthead-title a span::before {
-  position: absolute;
-  top: 100%;
-  content: attr(data-hover);
-  -webkit-transform: translate3d(0,0,0);
-  -moz-transform: translate3d(0,0,0);
-  transform: translate3d(0,0,0);
+    position: absolute;
+    top: 100%;
+    content: attr(data-hover);
+    -webkit-transform: translate3d(0,0,0);
+    -moz-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
 }
 .masthead-title a:hover span,
 .masthead-title a:focus span {
-  -webkit-transform: translateY(-100%);
-  -moz-transform: translateY(-100%);
-  transform: translateY(-100%);
-
+    -webkit-transform: translateY(-100%);
+    -moz-transform: translateY(-100%);
+    transform: translateY(-100%);
+    
 }
 /*有bug还没修复*/
 

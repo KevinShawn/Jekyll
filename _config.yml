@@ -8,13 +8,13 @@ encoding:         "utf-8"
 permalink:        pretty
 
 # Setup
-title:            KSN
+title:            Leon
 tagline:          'Stop Crying Make Yourself Better'
 description:      'Be Happy Everyday'
 url:              http://weibo.com/u/2406493902/home?wvr=5
 
 author:
-  name:           'Kevin Shawn'
+  name:           'Leon'
   url:            https://github.com/KevinShawn
 
 paginate:         5
@@ -26,4 +26,4 @@ version:          1.0.0
 comments :
     provider : duoshuo
     duoshuo :
-      short_name : KSN
+      short_name : Leon

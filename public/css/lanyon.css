@@ -610,7 +610,7 @@ a.sidebar-nav-item:focus {
 }
 .post-title .post-title-home:hover,
 .post-title .post-title-home:focus {
-  color: #ac4142;
+  color: #fff;
 }
 /*博文标题*/
 .post-title .post-title-blog {

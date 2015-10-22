@@ -314,7 +314,8 @@ tbody tr:nth-child(odd) th {
   -moz-transform: translate3d(0,0,0);
   transform: translate3d(0,0,0);
 }
-.masthead-title a:hover span,
+/*.masthead-title a:hover span,*/
+.masthead-title a: span,
 .masthead-title a:focus span {
   -webkit-transform: translateY(-100%);
   -moz-transform: translateY(-100%);
@@ -610,7 +611,7 @@ a.sidebar-nav-item:focus {
 }
 .post-title .post-title-home:hover,
 .post-title .post-title-home:focus {
-  color: #fff;
+  color: #ac4142;
 }
 /*博文标题*/
 .post-title .post-title-blog {

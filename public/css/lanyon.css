@@ -291,13 +291,14 @@ tbody tr:nth-child(odd) th {
 
 /*HUS on hover effect*/
 .masthead-title a {
-  color: #ac4142;
-  display: inline-block;
-  font-size: 1.8rem;
-  line-height: 1.8rem;
-  text-decoration: none;
-  overflow: hidden;
-  padding-right: 10px;
+    color: #ac4142;
+    display: inline-block;
+    font-size: 1.0rem;
+    line-height: 1.8rem;
+    text-decoration: none;
+    overflow: hidden;
+    padding-top: 10px;
+    padding-right: 230px;
 }
 .masthead-title a span {
   position: relative;
